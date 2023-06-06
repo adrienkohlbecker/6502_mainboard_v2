@@ -1,4 +1,4 @@
-# 6502 motherboard v2
+# 6502 mainboard v2
 
 ![front](./images/front.jpg)
 
